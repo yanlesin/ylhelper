@@ -1,0 +1,14 @@
+Package: ylhelper
+Title: Yan's Wrappers for openxlsx Package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Yan",
+           family = "Lyesin",
+           role = c("aut", "cre"),
+           email = "yan.lyesin@gmail.com")
+Description: Wrapper functions for openxlsx package function based on my current use
+Depends: openxlsx
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
