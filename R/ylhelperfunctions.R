@@ -6,7 +6,7 @@ library(openxlsx)
 #' @param wb workbook
 #' @param sheet sheet name or number
 #' @param dataframe dataframe to write
-#' @keywords XLSX columns width auto
+#' @keywords XLSX columns width auto dataframe
 #' @export
 #' @examples
 #' Write_XLSX_auto_width(wb, sheet, dataframe)
