@@ -14,36 +14,19 @@ knitr::opts_chunk$set(
 ```
 # ylhelper
 
-The goal of ylhelper is to ...
+The goal of ylhelper is to provide warpper functions for frequently used combination of openxlsx functions in my R coding. Some examples include writing dataframe into excel with auto width or with numeric or other formats for certain columns.
+There is a lot of "first" with this package for me: first R package, first public repo, and so on - please, consider this as an experiment.
 
 ## Installation
 
-You can install the released version of ylhelper from [CRAN](https://CRAN.R-project.org) with:
+You can install the development version of ylhelper from [GitHub](https://github.com/yanlesin/ylhelper) with:
 
 ``` r
-install.packages("ylhelper")
+library(devtools)
+install_github("yanlesin/ylhelper")
 ```
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+To be provided
 
-```{r example}
-## basic example code
-```
-
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
-
-```{r cars}
-summary(cars)
-```
-
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub!
