@@ -3,12 +3,13 @@
 
 # ylhelper
 
-The goal of ylhelper is to provide warpper functions for frequently used
-combination of openxlsx functions in my R coding. Some examples include
+The goal of ylhelper is to provide wrapper functions for frequently used
+combinations of openxlsx functions in my R code. Some examples include
 writing dataframe into excel with auto width or with numeric or other
-formats for certain columns. There is a lot of “first” with this package
-for me: first R package, first public repo, and so on - please, consider
-this as an experiment.
+formats for certain columns.
+
+There is a lot of “first” with this package for me: first R package,
+first public repo, and so on - please, consider this as an experiment.
 
 ## Installation
 
